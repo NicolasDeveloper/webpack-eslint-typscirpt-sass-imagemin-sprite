@@ -7,10 +7,10 @@ Este projeto tem como objetivo lhe proporcionar uma estrutura mais automatizada 
 ## 1.Dependências:
 	
 	-  Eslint: Padronizador de código; necessita-se instala-lo globalmente: **npm i -g eslint**   	
-	-  Typescript: Transpilador javascript com OBJ descente;
+	-  Typescript: Transpilador javascript com POO;
 	-  Webpack: Automatizador de tarefas; necessita-se instala-lo globalmente: **npm i -g webpack**
 	-  Sass: Transpilador css;
-	-  Node: Javascript server side;
+	-  Node: Javascript do lado do servidor;
 
 ## 2.Comandos:
 
