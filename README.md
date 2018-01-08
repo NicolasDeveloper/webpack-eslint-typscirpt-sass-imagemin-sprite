@@ -3,11 +3,11 @@
 
 ## Dependências:
 	
-	*  **Eslint**: Padronizador de código; necessita-se ser instalado globalmente: **npm i -g eslint**   	
-	*  **Typescript**: Transpilador javascript com OBJ descente;
-	*  Webpack: Automatizador de tarefas; necessita-se ser instalado globalmente: **npm i -g webpack**
-	*  **Sass**: Transpilador css;
-	*  **Node**: Javascript server side;
+	-  **Eslint**: Padronizador de código; necessita-se ser instalado globalmente: **npm i -g eslint**   	
+	-  **Typescript**: Transpilador javascript com OBJ descente;
+	-  Webpack: Automatizador de tarefas; necessita-se ser instalado globalmente: **npm i -g webpack**
+	-  **Sass**: Transpilador css;
+	-  **Node**: Javascript server side;
 
 ## O que este projeto faz ?
 
